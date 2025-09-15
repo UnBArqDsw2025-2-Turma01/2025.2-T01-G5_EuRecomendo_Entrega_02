@@ -31,3 +31,9 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 
 ## Informações Complementares 
 Quaisquer outras informações adicionais podem ser descritas nessa seção.
+
+## Histórico de versionamento
+
+| Versão | Data  | Descrição | Autor(es) | Revisor(es) |
+|--------|-------|-----------|-----------|-------------|
+|  `1.0` | 15/09 | Adicionado o readme da parte anterior  | [Bruno Bragança](https://github.com/BrunoBReis)        |             |
