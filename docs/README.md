@@ -36,4 +36,4 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 
 | Versão | Data  | Descrição | Autor(es) | Revisor(es) |
 |--------|-------|-----------|-----------|-------------|
-|  `1.0` | 15/09 | Adicionado o readme da parte anterior  | [Bruno Bragança](https://github.com/BrunoBReis)        |             |
+|  `1.0` | 15/09 | Adicionado o readme da parte anterior  | [Bruno Bragança](https://github.com/BrunoBReis)   |   [Luis Eduardo Lima](https://github.com/Luidooo)    |
