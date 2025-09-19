@@ -27,5 +27,5 @@ npm i docsify-cli -g
 Para iniciar o site localmente, utilize o comando:
 
 ```shell
-docsify serve ./docs
+docsify serve ./docs 
 ```
