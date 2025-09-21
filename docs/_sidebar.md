@@ -13,8 +13,8 @@
    - [2.2.1 Diagrama de Sequência](/Modelagem/2.2.1.DiagramaDeSequencia.md)
   - [2.3. Modelagem UML Organizacional ou Casos de Uso](/docs/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
    - [2.3.1 Casos de uso](/Modelagem/2.3.1.CasosDeUso.md)
-  - [2.4. Participações - Modelagem](/docs/Modelagem/2.4.ParticipacoesModelagem.md)
-  - [2.5. Iniciativas Extras - Modelagem](/docs/Modelagem/2.5.IniciativasExtras.md)
+  - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
+  - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
 
  - **Atas de reunião**
   - [2025-09-15](./Atas/2025-09-15.md)
