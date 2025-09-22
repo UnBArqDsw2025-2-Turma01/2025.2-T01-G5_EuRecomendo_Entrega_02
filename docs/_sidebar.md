@@ -18,6 +18,7 @@
       - [2.3.2 Diagrama de Pacotes](/Modelagem/2.3.1.DiagramaDePacotes.md)
     - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
+    - [2.5.1 Modelagem Conceitual do Banco de Dados](/Modelagem/2.5.1.ModelagemConceitual.md)
 
 - **Atas de reunião**
   - [2025-09-15](./Atas/2025-09-15.md)
